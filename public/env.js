@@ -1,0 +1,4 @@
+window.env = {
+  "API_URL": "https://api.pinkaloodemo.com/api/charities/v2",
+  "API_KEY": "47TE87C-YYA4567-MSPD4RJ-NCRBF65"
+};
