@@ -2,8 +2,7 @@
   "name": "ren_psg",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://api.pinkaloodemo.com",
-  "dependencies": {
+    "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -11,6 +10,7 @@
     "bootstrap": "^5.1.3",
     "env-cmd": "^10.1.0",
     "font-awesome": "^4.7.0",
+    "http-proxy-middleware": "^2.0.3",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
